@@ -9,7 +9,6 @@ This library is designed for runtime configuration of sensors, system parameters
 
 - [Features](#Features)
 - [Requirements](#Requirements)
-- [Dependencies](#Dependencies)
 - [Instalation](#Instalation)
 - [How to use](#How-to)
 - [Documentation](#Documentation)
@@ -27,13 +26,6 @@ This library is designed for runtime configuration of sensors, system parameters
 - Any compiler with C++17 and more (GCC 8+, Clang 7+, MSVC 2019+) 
 - Other requared UFO modules([see Dependencies](#Dependencies))
 - esp-idf with enabled C++17 
-
-## Dependencies
-
-| Library | Version | Description | LIC |
-|------------|--------|-----------|----------|
-| [![u_sys](https://img.shields.io/badge/u_sys-0.5.0-blue.svg)](link) | ≥ 0.5.0 | UFO System components | ASL |
-| [![Console-parser](https://img.shields.io/badge/ConsoleParser-1.0.0-blue.svg)](link) | ≥ 1.0.0 | Console arguments parser | ASL |
 
 ## Instalation
 
